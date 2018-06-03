@@ -70,6 +70,7 @@ ul {
     margin: 0;
     margin-bottom: 20px;
     overflow: hidden;
+    width: 300px;
     background-color: #8A85A5;
     text-align: center;
 }
