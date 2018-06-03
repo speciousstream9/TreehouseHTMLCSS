@@ -15,7 +15,7 @@ Body styling
 body {
 	max-width: 600px;
 	margin: 0 auto;
-	padding: 20px 20px;
+	padding: 0px 20px;
 	font-size: 1.3em;
 	line-height: 1.6em;
   font-family: 'Open Sans', sans-serif;
@@ -68,7 +68,7 @@ h4 {
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding-bottom: 20px;
     overflow: hidden;
     background-color: #8A85A5;
 }
