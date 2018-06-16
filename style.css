@@ -114,7 +114,8 @@ li.dropdown {
 }
 
 embed {
-    width: 70% !important;
+    width: 100% !important;
+    height: 500px !important;
 }
 
 /*********************
