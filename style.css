@@ -113,6 +113,9 @@ li.dropdown {
     display: block;
 }
 
+embed {
+    max-width: 600px;
+}
 
 /*********************
 social media bar
